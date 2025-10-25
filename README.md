@@ -1,2 +1,2 @@
-# autoclicker
-timed auto clicker
+# Allegany Auto Clicker
+made by owen
